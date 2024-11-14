@@ -34,7 +34,8 @@ RUN yum -y upgrade && yum -y install \
     python3-pexpect \
     perl-Text-ParseWords \
     perl-Thread-Queue \
-    python3 \
+    procps-ng \
+	python3 \
     python3-jinja2 \
     python3-pip \
     socat \
